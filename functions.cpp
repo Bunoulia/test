@@ -3,7 +3,7 @@
 #include <cctype>
 #include <stdexcept>
 
-namespace DigitCleaner 
+namespace DigitCleaner {
 
 // Функція для зчитування рядка з вводу користувача
     std::string readInput() { 
